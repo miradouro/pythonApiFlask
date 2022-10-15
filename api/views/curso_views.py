@@ -6,6 +6,7 @@ class CursoList(Resource):
     def get(self):
         return 'Hello World!!!'
 
+
 api.add_resource(CursoList, '/cursos')
 
 
