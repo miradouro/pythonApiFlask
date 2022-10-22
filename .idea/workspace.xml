@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9bb12db-8783-46e7-a4cc-9ef743f77e99" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/services/curso_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/services/curso_service.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/views/curso_views.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/views/curso_views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
