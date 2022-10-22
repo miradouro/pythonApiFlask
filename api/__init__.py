@@ -18,5 +18,3 @@ api = Api(app)
 from .views import curso_views, formacao_views
 from .models import curso_model, formacao_model
 
-
-
